@@ -1,0 +1,20 @@
+{
+  "RECORDS": [
+    {
+      "_id": "6027e27efadd79a8b456480d",
+      "created_at": "",
+      "email": "whitenight@gmail.com",
+      "name": "white",
+      "password": "dfadfadf",
+      "updated_at": ""
+    },
+    {
+      "_id": "6028989cb464000076004a52",
+      "created_at": "14/2/2021 03:27:24.713",
+      "email": "dark@gmail.com",
+      "name": "dark horse",
+      "password": "$2y$10$XAfTjeH0AJkWWEZ5zhirHOkS0N45G6dKYjz7k08PeNX9KsszOfrqC",
+      "updated_at": "14/2/2021 03:27:24.713"
+    }
+  ]
+}
